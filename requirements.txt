@@ -5,4 +5,5 @@ scikit-learn
 statsmodels
 matplotlib
 seaborn
-pyreadstat
+IPython
+requests

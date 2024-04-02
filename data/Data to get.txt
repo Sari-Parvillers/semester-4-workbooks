@@ -1,0 +1,8 @@
+- Demographic data
+- Parking data
+- Traffic data
+- Public space data
+- Air quality data
+- Light pollution data
+- Biodiversity data
+- Buildings data

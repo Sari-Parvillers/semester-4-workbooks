@@ -7,3 +7,6 @@ matplotlib
 seaborn
 IPython
 requests
+xgboost
+pmdarima
+tdqm
